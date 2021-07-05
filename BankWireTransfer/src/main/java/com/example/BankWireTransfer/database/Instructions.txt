@@ -1,0 +1,4 @@
+1) Open the script file
+2) Run the create scripts to create new tables
+3) Run Insert scripts to add few dummy data
+4) Ready to use in Spring Boot API
